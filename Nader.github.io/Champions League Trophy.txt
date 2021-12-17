@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Champions League Trophy</title>
+<style>
+
+
+body {
+  background-image: url('https://wallpaperaccess.com/full/1348845.png');
+}
+
+
+
+
+</style>
+
+
+</head>
+<body>
+<h1 style="color:White;" align="center">Trophy</h1>
+<h2 style="color:white" "font-size:50px;">
+The UEFA Champions League is UEFA's elite club competition with top clubs across the continent playing for the right to be crowned European champions. 
+Weighing in at a hefty but manageable 7.5kg, the trophy is light enough to be thrown around a bit in the kind of jubilant scenes we saw last year with Bayern Munich. 
+It stands 74cm tall and is made of sterling silver.
+</h2>
+<a href="https://thumbs.gfycat.com/ChillyBruisedGossamerwingedbutterfly-size_restricted.gif">
+  <img src="https://thumbs.gfycat.com/ChillyBruisedGossamerwingedbutterfly-size_restricted.gif" style="width:625px;">
+</a>
+<a href="https://64.media.tumblr.com/62354c5b83be9b915329f6e1c28e80fb/tumblr_p9ct9qDspy1qftb6ko2_540.gifv">
+  <img src="https://64.media.tumblr.com/62354c5b83be9b915329f6e1c28e80fb/tumblr_p9ct9qDspy1qftb6ko2_540.gifv" style="width:625px;">
+</a>
+<a href="https://64.media.tumblr.com/cc09d7203f51360a7235420d32e29549/c1c0605ceed59e78-44/s540x810/f1715a53acc459d2742a7714aa6a5356dd7376b3.gifv">
+  <img src="https://64.media.tumblr.com/cc09d7203f51360a7235420d32e29549/c1c0605ceed59e78-44/s540x810/f1715a53acc459d2742a7714aa6a5356dd7376b3.gifv" style="width:625px;">
+</a>
+<h3 style="color:white;">
+The European Champion Clubs' Cup, also known as Coupe des Clubs Champions Européens, or simply the European Cup, is a trophy awarded annually by UEFA to the football club that wins the UEFA Champions League.
+</h3>
+
+
+
+
+
+
+
+</body>
+</html>
